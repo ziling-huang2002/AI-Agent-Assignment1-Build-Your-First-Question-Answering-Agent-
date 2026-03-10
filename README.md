@@ -19,8 +19,8 @@ This project implements a Financial Question Answering Agent from scratch using 
 ### Setup Instructions
 1. Clone the repository
 ```
-git clone <your-repo-link>
-cd <your-repo-dir>
+git clone https://github.com/ziling-huang2002/AI-Agent-Assignment1-Build-Your-First-Question-Answering-Agent-.git
+cd https://github.com/ziling-huang2002/AI-Agent-Assignment1-Build-Your-First-Question-Answering-Agent-.git
 ```
 
 2. Create Conda environment
