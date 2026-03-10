@@ -40,7 +40,10 @@ Create a `.env` file in the root directory
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-5. Benchmark Task Demos  
+5. Benchmark Task Demos
+```
+python sample_code.py
+```
 Task A (Persona): Verified as "Financial Assistant".  
 Task B (Single Tool): NVDA price returns 190.00.  
 Task C (Parallel Tools): Simultaneous lookup for AAPL and TSLA.  
